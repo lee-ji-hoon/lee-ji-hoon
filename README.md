@@ -1,4 +1,7 @@
- <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
+<!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-ji-hoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
