@@ -1,4 +1,5 @@
-부스트캠프 AOS 과정 - 2022.07.18 ~ 2022.08.12
+부스트캠프 AOS 챌린지 과정 - 2022.07.18 ~ 2022.08.12
+부스트캠프 AOS 멤버십 과정 - 2022.08.29 ~ ing
 
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 
