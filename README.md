@@ -1,7 +1,7 @@
 ### Education
 
 네이버 부스트캠프 AOS 챌린지 과정 - 2022.07.18 ~ 2022.08.12  
-네이버 부스트캠프 AOS 멤버십 과정 - 2022.08.29 ~ ing
+네이버 부스트캠프 AOS 멤버십 과정 - 2022.08.29 ~ 2022.12.16
 
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 
