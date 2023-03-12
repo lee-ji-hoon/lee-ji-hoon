@@ -1,7 +1,13 @@
-### Education
+## 🕴️ Careers
 
-네이버 부스트캠프 AOS 챌린지 과정 - 2022.07.18 ~ 2022.08.12  
-네이버 부스트캠프 AOS 멤버십 과정 - 2022.08.29 ~ 2022.12.16
+<img src="https://user-images.githubusercontent.com/53300830/224524809-4d03e355-4609-46ff-ac13-85ced0c7d928.png" width="24"/> AfreecaTV Android Developer [2023.02 ~ ] 
+
+## 📚 Education
+
+<img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Android 챌린지 과정 [2022.07.18 ~ 2022.08.12]
+
+<img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Android 멤버십 과정 [2022.08.29 ~ 2022.12.16]
+
 
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 
