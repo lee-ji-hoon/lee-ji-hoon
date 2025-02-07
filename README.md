@@ -15,7 +15,7 @@
 
 <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9f316f5b-1e1d-4387-bcdc-9cdd7a225de5%2FSCR-20230610-meu.png&blockId=f14c6eaf-cfe7-4200-8cca-82cc697515a1" width="16"> [학습 테스트로 배우는 Compose 3기](https://edu.nextstep.camp/s/mDJZtGcJ) 리뷰어 [2025.02 ~ ing]
 
-<img src="https://avatars.githubusercontent.com/u/45747236?s=200&v=4" width="16"> [우아한테크코스](https://www.woowacourse.io/intro) 7기 Android 리뷰어 네이버 부스트캠프 Android 멤버십 과정 [2025.02 ~ ing]
+<img src="https://avatars.githubusercontent.com/u/45747236?s=200&v=4" width="16"> [우아한테크코스](https://www.woowacourse.io/intro) 7기 Android 리뷰어 [2025.02 ~ ing]
 
 <img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/464977304_918746673498948_4023892689466090661_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2AEnuXngS8mzpTvmDGDfVV2n8g4vbvT--6tDnHnCehlTbLM-9MOXNiKCl0wwfpweyIk&_nc_ohc=LmKglha0Yp4Q7kNvgFSiRrZ&_nc_gid=af32d91c23a64f4c8bedeefc90813c8e&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBbMiZGbphYE1fcYgiL62DwnqOLLeNKZD4KRMOKxUAhRQ&oe=67ABED35&_nc_sid=8b3546" width="16"> Nexters 26기 운영진 - COO [2024.10 ~ ing]
 
