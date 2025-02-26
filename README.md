@@ -10,16 +10,15 @@
 
 [GDG super.init v5 - 어어.. 그렇게 쓰는 거 아닌데.. - 주니어 개발자의 Custom Lint 개발일지](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5)
 
-
 ## ETC
 
 <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9f316f5b-1e1d-4387-bcdc-9cdd7a225de5%2FSCR-20230610-meu.png&blockId=f14c6eaf-cfe7-4200-8cca-82cc697515a1" width="16"> [학습 테스트로 배우는 Compose 3기](https://edu.nextstep.camp/s/mDJZtGcJ) 리뷰어 [2025.02 ~ ing]
 
 <img src="https://avatars.githubusercontent.com/u/45747236?s=200&v=4" width="16"> [우아한테크코스](https://www.woowacourse.io/intro) 7기 Android 리뷰어 [2025.02 ~ ing]
 
-<img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/464977304_918746673498948_4023892689466090661_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2AEnuXngS8mzpTvmDGDfVV2n8g4vbvT--6tDnHnCehlTbLM-9MOXNiKCl0wwfpweyIk&_nc_ohc=LmKglha0Yp4Q7kNvgFSiRrZ&_nc_gid=af32d91c23a64f4c8bedeefc90813c8e&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBbMiZGbphYE1fcYgiL62DwnqOLLeNKZD4KRMOKxUAhRQ&oe=67ABED35&_nc_sid=8b3546" width="16"> Nexters 26기 운영진 - COO [2024.10 ~ ing]
+<img src="https://github.com/user-attachments/assets/458ff7ba-5a50-456f-8e6a-7adfe3276e6e" width="16"> Nexters 26기 운영진 - COO [2024.10 ~ ing]
 
-<img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/464977304_918746673498948_4023892689466090661_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2AEnuXngS8mzpTvmDGDfVV2n8g4vbvT--6tDnHnCehlTbLM-9MOXNiKCl0wwfpweyIk&_nc_ohc=LmKglha0Yp4Q7kNvgFSiRrZ&_nc_gid=af32d91c23a64f4c8bedeefc90813c8e&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBbMiZGbphYE1fcYgiL62DwnqOLLeNKZD4KRMOKxUAhRQ&oe=67ABED35&_nc_sid=8b3546" width="16"> Nexters 25기 Android 개발 [2024.07 ~ 2024.09]
+<img src="https://github.com/user-attachments/assets/458ff7ba-5a50-456f-8e6a-7adfe3276e6e" width="16"> Nexters 25기 Android 개발 [2024.07 ~ 2024.09]
 
 <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Android 멤버십 과정 [2022.08.29 ~ 2022.12.16]
 
