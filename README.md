@@ -6,9 +6,9 @@
 
 ## Presentation
 
-[네이버 부스트캠프 7기 부스트 컨퍼런스 - 뉴비의 시점에서 바라본 Kotlin suspend](https://speakerdeck.com/leejihoon/nyubiyi-sijeomeseo-barabon-kotlin-suspend-neibeo-buseuteukaempeu-7gi-buseuteu-keonpeoreonseu)  
-
 [GDG super.init v5 - 어어.. 그렇게 쓰는 거 아닌데.. - 주니어 개발자의 Custom Lint 개발일지](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5)
+
+[네이버 부스트캠프 7기 부스트 컨퍼런스 - 뉴비의 시점에서 바라본 Kotlin suspend](https://speakerdeck.com/leejihoon/nyubiyi-sijeomeseo-barabon-kotlin-suspend-neibeo-buseuteukaempeu-7gi-buseuteu-keonpeoreonseu)  
 
 ## ETC
 
