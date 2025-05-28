@@ -23,3 +23,6 @@
 <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Android 멤버십 과정 [2022.08.29 ~ 2022.12.16]
 
 <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Android 챌린지 과정 [2022.07.18 ~ 2022.08.12]  
+
+
+![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/lee-ji-hoon&color=4caf50&r=111)
