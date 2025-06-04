@@ -12,7 +12,7 @@
 
 ## ETC
 
-<img src="https://avatars.githubusercontent.com/u/45747236?s=200&v=4" width="16"> [우아한테크코스](https://www.woowacourse.io/intro) 7기 Android 리뷰어 [2025.02 ~ ing]
+<img src="https://avatars.githubusercontent.com/u/45747236?s=200&v=4" width="16"> [우아한테크코스](https://www.woowacourse.io/intro) 7기 Android 리뷰어 [2025.02 ~ 2025.06]
 
 <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9f316f5b-1e1d-4387-bcdc-9cdd7a225de5%2FSCR-20230610-meu.png&blockId=f14c6eaf-cfe7-4200-8cca-82cc697515a1" width="16"> [학습 테스트로 배우는 Compose 3기](https://edu.nextstep.camp/s/mDJZtGcJ) 리뷰어 [2025.02 ~ 2025.03]
 
