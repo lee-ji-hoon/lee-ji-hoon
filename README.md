@@ -6,6 +6,8 @@
 
 ## Presentation
 
+[DroidKnights 2025 - 나도 edgeToEdge 적용하기 싫어. 근데 누군가는 해야 하잖아?](https://speakerdeck.com/leejihoon/droidknights-2025-nado-edgetoedge-jeogyonghagi-silheo-geunde-nugunganeun-haeya-hajanha)
+
 [GDG super.init v5 - 어어.. 그렇게 쓰는 거 아닌데.. - 주니어 개발자의 Custom Lint 개발일지](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5)
 
 [네이버 부스트캠프 7기 부스트 컨퍼런스 - 뉴비의 시점에서 바라본 Kotlin suspend](https://speakerdeck.com/leejihoon/nyubiyi-sijeomeseo-barabon-kotlin-suspend-neibeo-buseuteukaempeu-7gi-buseuteu-keonpeoreonseu)  
